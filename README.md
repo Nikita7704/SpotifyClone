@@ -10,12 +10,12 @@ This is a simple **Spotify Clone** created using **HTML** and **CSS** to replica
 ## Screenshots 📸
 Here are some screenshots of the project to give you a visual idea:
 
-### Desktop View
-![Desktop View](path-to-your-screenshot1.png)
+### View
+![image alt](https://github.com/Nikita7704/SpotifyClone/blob/53d24835543e496b220d673ee1faaf9c9e17e653/Screenshot%202024-12-22%20201950.png)
 
-### Mobile View
-![Mobile View](path-to-your-screenshot2.png)
+![image alt](https://github.com/Nikita7704/SpotifyClone/blob/53d24835543e496b220d673ee1faaf9c9e17e653/Screenshot%202024-12-22%20201950.png)
 
+![image alt](https://github.com/Nikita7704/SpotifyClone/blob/53d24835543e496b220d673ee1faaf9c9e17e653/Screenshot%202024-12-22%20201950.png)
 *(Add additional screenshots as needed.)*
 
 ## Tech Stack 🛠️
