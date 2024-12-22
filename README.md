@@ -15,7 +15,7 @@ Here are some screenshots of the project to give you a visual idea:
 
 ![image alt](https://github.com/Nikita7704/SpotifyClone/blob/2e52bc3426c0746986c346888adf6f9b9234ca0f/Screenshot%202024-12-22%20201929.png)
 
-![image alt](https://github.com/Nikita7704/SpotifyClone/blob/53d24835543e496b220d673ee1faaf9c9e17e653/Screenshot%202024-12-22%20201950.png)
+![image alt](https://github.com/Nikita7704/SpotifyClone/blob/1a668a47c999870f2316cce665be412fb9a557f9/Screenshot%202024-12-22%20201914.png)
 *(Add additional screenshots as needed.)*
 
 ## Tech Stack 🛠️
